@@ -1,0 +1,4 @@
+The sum is:3.000000
+The difference is:1.000000
+The product is:2.000000
+The division is:2.000000
