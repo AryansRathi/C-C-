@@ -1,6 +1,0 @@
-The sum is 6
-
-The difference is 0
-
-The product is 9
-
