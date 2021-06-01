@@ -1,7 +1,0 @@
-Q10.1(a)
-When using namespace std is commented out the complier tells the string was not declared in the scope and cout also not declared in the scope.
-using namespace std is used for differentitating similar functions, classes, varaibles.
-So Using namespace, we can define the context in which names are defined. In essence, a namespace defines a scope.
-(b)
-When Critter:: was removed the complier gave the error like the name,hunger is not in the scope and to rename them.
-So when Critter:: is removed the members are global and have have to be named differently.
